@@ -1,7 +1,0 @@
-         sampletype     expr
-sample1     control        0
-sample2     control        0
-sample3     control        0
-sample4     ex             1
-sample5     ex             1
-sample6     ex             1
