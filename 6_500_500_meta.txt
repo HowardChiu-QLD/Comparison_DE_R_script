@@ -1,0 +1,13 @@
+         sampletype     expr
+sample1     control        0
+sample2     control        0
+sample3     control        0
+sample4     control        0
+sample5     control        0
+sample6     control        0
+sample7     ex             1
+sample8     ex             1
+sample9     ex             1
+sample10    ex             1
+sample11    ex             1
+sample12    ex             1
